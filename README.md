@@ -19,7 +19,7 @@ This is a HTML, CSS, JAVASCRIPT movie website project where users can come and w
 - Download or clone the repository
 
 ```
-
+gh repo clone D3363/MoviesZilla
 ```
 
 - Go to the directory
@@ -52,5 +52,5 @@ Built with Vanilla JavaScript. Below is a list of the methods and properties use
 
 
 
-
+"C:\Users\dixit\Videos\MoivesZilla.mp4"
 
