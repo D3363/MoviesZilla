@@ -49,8 +49,8 @@ Built with Vanilla JavaScript. Below is a list of the methods and properties use
 * toLowerCase
 * target
 
+## 🎬 Website Preview
 
+![Website Preview](assets/MoivesZilla_Preview.gif)
 
-
-"C:\Users\dixit\Videos\MoivesZilla.mp4"
 
