@@ -51,6 +51,6 @@ Built with Vanilla JavaScript. Below is a list of the methods and properties use
 
 ## 🎬 Website Preview
 
-![Website Preview](assets/MoivesZilla_Preview.gif)
+![Website Preview](MoivesZilla_Preview.gif)
 
 
